@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/GuiGarciaDev.github.io/static/css/main.d7c6ae8c.css",
+    "main.js": "/GuiGarciaDev.github.io/static/js/main.bab30311.js",
+    "index.html": "/GuiGarciaDev.github.io/index.html",
+    "main.d7c6ae8c.css.map": "/GuiGarciaDev.github.io/static/css/main.d7c6ae8c.css.map",
+    "main.bab30311.js.map": "/GuiGarciaDev.github.io/static/js/main.bab30311.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7c6ae8c.css",
+    "static/js/main.bab30311.js"
+  ]
+}
